@@ -1,3 +1,5 @@
+THis is a modification of the readme
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
